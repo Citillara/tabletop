@@ -1,6 +1,6 @@
 ## **Ritual of Sacrifice to Tharizdun**
 
-This rule governs the act of making a sacrifice to Tharizdun, or entities masquerading as such, within the game. It involves a series of skill checks that determine the success of the ritual and the consequences thereof.
+In this scenario, Tharizdun is assumed to have beeen imprisoned by demons, devils, angels and gods due to the threat he represents.
 
 ### **Skill Check Requirements**
 
