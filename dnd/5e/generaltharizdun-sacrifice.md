@@ -49,5 +49,5 @@ Name: Zilthrax, the Collector
 
 Description: Zilthrax is a Falxugon who thrives in shadows and whispers, with a form that seems to constantly shift between that of a gaunt humanoid and a swirling mass of dark mist. Its eyes glow with a malevolent crimson light, and its voice echoes with multiple tones, as if a chorus of beings spoke at once. Zilthrax prefers to appear in dreams or through subtle manipulations rather than direct confrontation, making it all the more insidious.
 
-Personality: Zilthrax is cunning, manipulative, and thrives on the spread of misery. It enjoys twisting the perceptions of mortals, leading them down the path of ruin with honeyed words and promises of power. Despite its chaotic nature, Zilthrax is a master strategist, capable of playing the long game to achieve its goals.
+Personality: Zilthrax is cunning, manipulative, and thrives on the spread of misery. It enjoys twisting the perceptions of mortals, leading them down the path of ruin with honeyed words and promises of power. Zilthrax is a master strategist, capable of playing the long game to achieve its goals.
 
