@@ -39,8 +39,6 @@ After the skill checks, roll a d100 to determine the outcome of the sacrifice:
 - The success range for the consequence roll is based on the cumulative bonuses from the initial skill checks.
 - The ritual's complexity and the dire consequences of failure highlight the risks involved in dealing with such powerful and unpredictable forces.
 
-This rule aims to provide a structured yet flexible framework for handling sacrifices, encouraging strategic thinking and role-playing while underscoring the inherent dangers of meddling with dark powers beyond mortal ken.
-
 --- 
 
 ## **The Devil**
