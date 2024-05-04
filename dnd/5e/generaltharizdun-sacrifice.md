@@ -129,7 +129,7 @@ The SAN attribute adheres to the rules from the Call of Cthulhu 7th edition, wit
 
 ---
 
-##Poem for locating the keys
+## Poem for locating the keys
 
 The poem should be found by the characters but in incomplete/damaged state where some keywords/lines are missing.
 The 7th stanza can not be found in any recording and only engraved on a stone where each key is guarded
