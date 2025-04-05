@@ -133,6 +133,7 @@ The SAN attribute adheres to the rules from the Call of Cthulhu 7th edition, wit
 
 The poem should be found by the characters but in incomplete/damaged state where some keywords/lines are missing.
 The 7th stanza can not be found in any recording and only engraved on a stone where each key is guarded
+The poem is celestian origin, so a character versed into poetics/celestial lore can figure that something is wrong if they find a version of the poem without the 7th stanza (Tharizdun's name itself is a taboo and only known to the oldest entities, original gods (newly ascended gods probably don't have knowledge), the guardians and a few comsic well versed characters. (DC 50 Knowledge) Most Tharizdun's followers have a mentor from whom they learnt the name.
 
 ### French version
 
