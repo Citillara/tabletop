@@ -1,7 +1,3 @@
-Here’s your **Chaos Points** rule polished for clarity, tone, and style — with improved Markdown formatting, typo cleanup, and reworded terms for flavor and coherence. I replaced *“No Farming”* with **“No False Omens”** and *“Retrocharge Safety Valve”* with **“Immediate Revelation Clause”**, both of which keep the intent but fit the Mythos tone.
-
----
-
 ## Optional Rule: Chaos Points
 
 ### **Overview**
